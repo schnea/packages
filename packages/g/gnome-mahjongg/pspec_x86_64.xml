@@ -1,10 +1,10 @@
 <PISI>
     <Source>
         <Name>gnome-mahjongg</Name>
-        <Homepage>https://wiki.gnome.org/Apps/Mahjongg</Homepage>
+        <Homepage>https://gitlab.gnome.org/GNOME/gnome-mahjongg</Homepage>
         <Packager>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Lea Evers</Name>
+            <Email>lea.evers@mailbox.org</Email>
         </Packager>
         <License>GPL-2.0-or-later</License>
         <PartOf>games.card</PartOf>
@@ -632,12 +632,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="11">
-            <Date>2024-04-17</Date>
-            <Version>3.40.1</Version>
+        <Update release="12">
+            <Date>2024-11-14</Date>
+            <Version>47.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Lea Evers</Name>
+            <Email>lea.evers@mailbox.org</Email>
         </Update>
     </History>
 </PISI>

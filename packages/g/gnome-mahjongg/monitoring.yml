@@ -1,0 +1,6 @@
+releases:
+  id: 227755 # Check https://release-monitoring.org/
+  rss: https://gitlab.gnome.org/GNOME/gnome-mahjongg/-/tags?format=atom # For example https://github.com/PyO3/maturin/releases.atom
+# No known CPE, checked 2024-11-14
+security:
+  cpe: ~
